@@ -1,4 +1,4 @@
-# ETF Analyzer, Module 7 Challenge
+# ETF Analyzer
 
 This is a JupyterLab notebook which utilizes SQL to read a given database. A data analyst may then use the database to read tables of data and filter the data to answer their questions.
 
@@ -6,7 +6,12 @@ This is a JupyterLab notebook which utilizes SQL to read a given database. A dat
 
 ## Technologies
 
-This application was written in Python 3.9.12. This application is dependent on the [pandas](https://pandas.pydata.org/), [JupyterLab](https://jupyter.org/), [pyviz hvplot](https://hvplot.holoviz.org/), [numpy](https://numpy.org/), and [SQLAlchemy Lite](https://docs.sqlalchemy.org/en/14/dialects/sqlite.html).
+This application was written in Python 3.9.12. This application is dependent on the following libraries:
+* [pandas](https://pandas.pydata.org/)
+* [JupyterLab](https://jupyter.org/)
+* [pyviz hvplot](https://hvplot.holoviz.org/)
+* [numpy](https://numpy.org/)
+* [SQLAlchemy Lite](https://docs.sqlalchemy.org/en/14/dialects/sqlite.html).
 
 ---
 
@@ -43,7 +48,7 @@ then JupyterLab will automatically open in your browswer. Use the left side menu
 
 ## Contributors
 
-Rachel Ann Hodson, rachelannhodson@gmail.com
+[Rachel Ann Hodson](https://www.linkedin.com/in/rachelannhodson/), rachelannhodson@gmail.com
 
 ---
 
